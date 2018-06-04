@@ -2365,6 +2365,21 @@ body {
 .cid-qTQW31qqt6 .dropdown-item:hover {
   color: #f8ad00 !important;
 }
+.cid-qU3bsSBWkz {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qU3bsSBWkz .mbr-iconfont-social {
+  font-size: 32px;
+  color: #f8ad00;
+}
+.cid-qU3bsSBWkz .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qU3bsSBWkz H2 {
+  color: #f8ad00;
+}
 .cid-qTAy7q68c3 {
   padding-top: 120px;
   padding-bottom: 60px;
