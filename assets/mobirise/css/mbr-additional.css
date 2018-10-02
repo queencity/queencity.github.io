@@ -1978,6 +1978,10 @@ body {
 .cid-qTAupnLrCQ H2 {
   color: #f8ad00;
 }
+.cid-qTAupnLrCQ .mbr-text,
+.cid-qTAupnLrCQ .mbr-section-btn P {
+  color: #ffffff;
+}
 .cid-qTAruTdQhd .google-map {
   height: 25rem;
   position: relative;

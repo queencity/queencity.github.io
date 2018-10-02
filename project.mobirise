@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BCB QCB",
-    "currentPage": "index.html",
+    "currentPage": "show.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 157,
     "versionPublish": "4.7.6",
@@ -827,6 +827,9 @@
             },
             "H2": {
               "color": "#f8ad00"
+            },
+            ".mbr-text, .mbr-section-btn P": {
+              "color": "#ffffff"
             }
           },
           "_name": "info3",
