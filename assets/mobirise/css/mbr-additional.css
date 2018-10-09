@@ -2008,10 +2008,22 @@ body {
 .cid-qTAuqd4tJ2 {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-image: url("../../../assets/images/whatsapp-image-2018-10-09-at-1.35.40-pm-882x882.jpg");
 }
 .cid-qTAuqd4tJ2 H2 {
   color: #f8ad00;
+}
+.cid-r60lwLq7I8 {
+  background: #000000;
+}
+.cid-r60lwLq7I8 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-r60lwLq7I8 .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qTArKB1jWt .google-map {
   height: 25rem;
