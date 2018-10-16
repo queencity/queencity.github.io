@@ -2005,25 +2005,23 @@ body {
 .cid-qTAruTdQhd .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-qTAuqd4tJ2 {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/whatsapp-image-2018-10-09-at-1.35.40-pm-882x882.jpg");
-}
-.cid-qTAuqd4tJ2 H2 {
-  color: #f8ad00;
-}
-.cid-r60lwLq7I8 {
-  background: #000000;
-}
-.cid-r60lwLq7I8 .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-r60lwLq7I8 .video-block {
-    width: 100% !important;
+@media (min-width: 992px) {
+  .cid-r6FukrFONp .mbr-figure {
+    padding-right: 4rem;
   }
+}
+@media (max-width: 991px) {
+  .cid-r6FukrFONp .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r6FukrFONp .mbr-text {
+    text-align: center;
+  }
+}
+.cid-r6FukrFONp H1 {
+  color: #f8ad00;
 }
 .cid-qTArKB1jWt .google-map {
   height: 25rem;
