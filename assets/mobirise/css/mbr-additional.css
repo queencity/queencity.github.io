@@ -1,5 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=IM+Fell+English+SC:400);
+@import url(https://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700,900);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+
 
 
 
@@ -20,14 +22,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'IM Fell English SC', serif;
-  font-size: 5rem;
+  font-family: 'Cinzel Decorative', display;
+  font-size: 4.6rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 8rem;
+  font-size: 7.36rem;
 }
 .display-2 {
-  font-family: 'IM Fell English SC', serif;
+  font-family: 'Cinzel', serif;
   font-size: 2.8rem;
 }
 .display-2 > .mbr-iconfont {
@@ -41,7 +43,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: undefined;
+  font-family: 'Cinzel', serif;
   font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
@@ -61,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.68rem;
+    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.24rem;
@@ -585,8 +587,8 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1962,7 +1964,7 @@ body {
 .cid-qTAusGdAvJ {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-4-1620x1080.jpg");
+  background-image: url("../../../assets/images/whatsapp-image-2018-10-15-at-1.46.28-pm-1600x1068.jpg");
 }
 .cid-qTAusGdAvJ P {
   color: #f8ad00;
