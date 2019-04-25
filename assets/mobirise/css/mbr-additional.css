@@ -1790,40 +1790,6 @@ body {
 .cid-riLtPVYsiP .mbr-section-btn {
   text-align: center;
 }
-.cid-r7vXGwORSy {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-r7vXGwORSy .mbr-section-subtitle {
-  color: #f8ad00;
-}
-.cid-r7vXHY5vwQ {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-r7vXHY5vwQ h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-r7vXHY5vwQ p {
-  color: #767676;
-  text-align: left;
-}
-.cid-r7vXHY5vwQ .card-box {
-  padding-top: 2rem;
-}
-.cid-r7vXHY5vwQ .card-wrapper {
-  height: 100%;
-}
-.cid-r7vXHY5vwQ .card-title {
-  text-align: center;
-}
-.cid-r7vXHY5vwQ P {
-  text-align: left;
-}
 .cid-qMpXG4mWWW {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1940,6 +1906,7 @@ body {
 .cid-r5w7JT9ElE {
   padding-top: 60px;
   padding-bottom: 15px;
+  background-color: #000000;
 }
 .cid-r5w7JT9ElE H2 {
   color: #f8ad00;
@@ -1974,9 +1941,18 @@ body {
 .cid-qTAruTdQhd .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-r6FukrFONp {
+  background-color: #000000;
+  background: linear-gradient(45deg, #000000, #f8ad00);
+}
+.cid-r6FukrFONp .media-container-row {
+  flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-r6FukrFONp .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -1991,32 +1967,6 @@ body {
 }
 .cid-r6FukrFONp H1 {
   color: #f8ad00;
-}
-.cid-qTArKB1jWt .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-qTArKB1jWt .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-qTArKB1jWt .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-qTArKB1jWt .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-qTArKB1jWt .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
 .cid-qTQW31qqt6 .navbar {
   background: #000000;
