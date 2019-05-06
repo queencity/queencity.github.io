@@ -1763,31 +1763,15 @@ body {
 .cid-qTQVWZNAVd .dropdown-item:hover {
   color: #f8ad00 !important;
 }
-.cid-riLtPVYsiP {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/whatsapp-image-2018-05-29-at-11.14.59-pm-1600x1066.jpg");
+.cid-rpJvGzVnFY {
+  background-image: url("../../../assets/images/ead480aa-2752-4d79-9a04-ec738a7f7ac7-1-1600x1066.jpg");
 }
-.cid-riLtPVYsiP .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: flex;
-  justify-content: center;
+.cid-rpJvGzVnFY .mbr-text,
+.cid-rpJvGzVnFY .mbr-section-btn {
+  color: #ffffff;
 }
-.cid-riLtPVYsiP .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-riLtPVYsiP .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-riLtPVYsiP H1 {
+.cid-rpJvGzVnFY H1 {
   color: #f8ad00;
-}
-.cid-riLtPVYsiP .mbr-text,
-.cid-riLtPVYsiP .mbr-section-btn {
   text-align: center;
 }
 .cid-qMpXG4mWWW {
