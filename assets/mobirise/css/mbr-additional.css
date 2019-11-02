@@ -3387,6 +3387,20 @@ body {
     width: 100% !important;
   }
 }
+.cid-rEmVM0yXa3 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #000000;
+  background: linear-gradient(0deg, #000000, #f8ad00);
+}
+.cid-rEmVM0yXa3 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rEmVM0yXa3 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qTLXm0HzQO {
   padding-top: 0px;
   padding-bottom: 0px;
